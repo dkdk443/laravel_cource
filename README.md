@@ -27,6 +27,11 @@
 sail php artisan migrate
 ```
 
+```
+npm install
+npm run dev
+```
+
 ###  Dockerない場合
 - Laravel installerのインストール
 https://readouble.com/laravel/11.x/ja/installation.html
